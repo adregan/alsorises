@@ -1,3 +1,3 @@
-# PNGer
+# The Cover of The Sun Also Rises
 
-Read your PNGs out loud, one pixel at a time.
+A project generated with [pnger](https://github.com/adregan/pnger)
